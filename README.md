@@ -26,8 +26,7 @@ Questions (KPIs)
 - Combined everything into one page with the month/quarter view for easy tracking.
 
 ### Dashboard
-
-Attach the dashboard screenshot here (API_Collection_Dashboard.jpg).
+![API Marchant Collection Dasboard](https://github.com/Abhijeetpatil-1998/API_Collection_Highlights_FY_2026-27-Interactive_Dashboard_using_Power-BI/blob/main/API%20Marchant%20Collection%20Dasboard.jpeg)
 
 ### Project Insights
 - Collection is strong at about 94.63%: 31.38 Cr received out of 33.16 Cr raised.
